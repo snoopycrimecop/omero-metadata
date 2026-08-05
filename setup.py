@@ -64,7 +64,7 @@ setup(
         'omero-py>=5.6.0',
         'pandas>=2,<3'
     ],
-    python_requires='>=3',
+    python_requires='>=3.10',
     tests_require=[
         'omero-py>=5.17.0',
         'pytest'],
