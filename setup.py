@@ -62,8 +62,6 @@ setup(
     keywords=['OMERO.CLI', 'plugin'],
     install_requires=[
         'omero-py>=5.6.0',
-        'PyYAML',
-        'jinja2',
         'pandas>=2,<3'
     ],
     python_requires='>=3',
