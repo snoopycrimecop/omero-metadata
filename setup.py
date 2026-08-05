@@ -64,7 +64,7 @@ setup(
         'omero-py>=5.6.0',
         'PyYAML',
         'jinja2',
-        'pandas'
+        'pandas>=2,<3'
     ],
     python_requires='>=3',
     tests_require=[
