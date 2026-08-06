@@ -13,8 +13,8 @@ management of annotations on objects in OMERO.
 Requirements
 ============
 
-* OMERO 5.6.0 or newer
-* Python 3.6 or newer
+* OMERO 5.6.x
+* Python 3.10+
 
 
 Installing from PyPI
