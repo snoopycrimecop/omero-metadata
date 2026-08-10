@@ -17,9 +17,9 @@ on:
     - cron: '0 0 * * 0'
 
 jobs:
-  permissions:
-    contents: read
   test:
+    permissions:
+      contents: read
     name: Run integration tests against OMERO
     runs-on: ubuntu-latest
     env:
